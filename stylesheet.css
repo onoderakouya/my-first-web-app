@@ -53,10 +53,10 @@ li{
 }
 
 .each-content{
-    flex-direction: row;
 }
 
 .contents-item{
+  float: left;
   margin-right: 40px;
 
 }
