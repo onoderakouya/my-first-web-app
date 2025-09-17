@@ -52,8 +52,14 @@ li{
 .contents-item{
   float:left;
   margin-right: 40px;
-  box-shadow: 0px 3px 10px SlateGray;  
+
 }
+
+img{
+  box-shadow: 0px 3px 10px SlateGray;  
+  box-radius: 20px;
+}
+
 .none {
     box-shadow: none;  
 }
