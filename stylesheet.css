@@ -3,8 +3,6 @@ body {
 }
 li{
   list-style: none;
-  float: left;
-  padding: 33px 20px;
 }
 
 .header{
@@ -17,7 +15,10 @@ li{
   float: left;
   padding: 20px 40px;
 }
-
+.header-list li{
+  float: left;
+  padding: 33px 20px;
+}
 .main{
   background-color: #bdf7f1;
   height: 600px;
