@@ -67,6 +67,12 @@ img{
     box-shadow: none;  
 }
 
+.neko-trader{
+  position: relative;
+  top: 0px;
+  left: 500px;
+}
+
 .footer{
   background-color: #2f5167;
   color: #fff;
