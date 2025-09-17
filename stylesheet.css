@@ -57,7 +57,7 @@ li{
 
 img{
   box-shadow: 0px 3px 10px SlateGray;  
-  box-radius: 20px;
+  border-radius: 20px;
 }
 
 .none {
