@@ -52,8 +52,11 @@ li{
   margin-bottom: 50px;
 }
 
+.each-content{
+    flex-direction: row;
+}
+
 .contents-item{
-  flex-direction: row;
   margin-right: 40px;
 
 }
