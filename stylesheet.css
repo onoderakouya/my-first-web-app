@@ -32,6 +32,8 @@ li{
 
 .copy-container h2{
   font-size: 60px;
+  font-weight: normal;
+  font-family: serif;
 }
 
 .copy-container span{
